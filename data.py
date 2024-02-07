@@ -12,7 +12,7 @@ SCALAR TYPES: they store one kind of data.
 COLLECTION TYPES: they store different types of data.
 1. List
 2. dictionary
-3.
+3. tuple
 
 
 
